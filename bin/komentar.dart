@@ -8,4 +8,6 @@ void main() {
    * ini adalah komentar
    * lebih dari satu baris
    */
+
+  print(name);
 }
